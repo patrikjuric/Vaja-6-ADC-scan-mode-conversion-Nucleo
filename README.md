@@ -5,4 +5,4 @@ Dolžina podatka pretvorbe bo 1 Byte, zato ustrezno popravimo izbirno polje Data
 
 
 KOMENTAR NA DELOVANJE:
-Projekt žal ne deluje tako kot bi moral in sicer bere vrednost samo iz enega od treh potrnciometrov, kar je rezvidno tudi v zgoraj priloženem gradivu.
+Projekt žal ne deluje tako kot bi moral in sicer bere vrednost samo iz enega od treh potrnciometrov, kar je razvidno tudi v zgoraj priloženem gradivu.
